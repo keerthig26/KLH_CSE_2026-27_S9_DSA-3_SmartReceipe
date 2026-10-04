@@ -1,0 +1,2805 @@
+[
+  {
+    "id": 1,
+    "name": "Tomato Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 320,
+      "protein": 6,
+      "carbohydrates": 48,
+      "fat": 9
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Chop tomato, onion and green chilli.",
+      "Saute onion and green chilli in oil.",
+      "Add tomato and spices.",
+      "Cook until the tomato becomes soft.",
+      "Add cooked rice and mix well.",
+      "Cook for a few minutes and serve."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lemon Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "lemon", "peanuts", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 310,
+      "protein": 7,
+      "carbohydrates": 46,
+      "fat": 10
+    },
+    "steps": [
+      "Cook the rice and let it cool.",
+      "Heat oil and add mustard seeds and cumin.",
+      "Add peanuts and green chilli.",
+      "Add turmeric and salt.",
+      "Add cooked rice and mix gently.",
+      "Turn off the heat and add lemon juice.",
+      "Mix well and serve."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Curd Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "curd", "green chilli"],
+    "pantryIngredients": ["salt", "oil", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 280,
+      "protein": 8,
+      "carbohydrates": 42,
+      "fat": 7
+    },
+    "steps": [
+      "Cook the rice until soft.",
+      "Let the rice cool slightly.",
+      "Add curd and salt.",
+      "Heat oil and add mustard seeds and cumin.",
+      "Add green chilli and saute briefly.",
+      "Mix the tempering with the curd rice.",
+      "Serve fresh."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Coconut Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "coconut", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 330,
+      "protein": 6,
+      "carbohydrates": 45,
+      "fat": 12
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Grate the coconut.",
+      "Heat oil and add mustard seeds and cumin.",
+      "Add green chilli and grated coconut.",
+      "Saute for a few minutes.",
+      "Add cooked rice and salt.",
+      "Mix well and serve."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tamarind Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "tamarind", "peanuts", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "mustard seeds"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 340,
+      "protein": 8,
+      "carbohydrates": 49,
+      "fat": 11
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Soak tamarind and extract the pulp.",
+      "Heat oil and add mustard seeds and peanuts.",
+      "Add green chilli and spices.",
+      "Add tamarind pulp and cook.",
+      "Add cooked rice and mix well.",
+      "Cook for a few minutes and serve."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jeera Rice",
+    "category": "Rice & Pulao",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "cumin"],
+    "pantryIngredients": ["oil", "salt", "ghee"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 290,
+      "protein": 5,
+      "carbohydrates": 47,
+      "fat": 7
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Heat ghee in a pan.",
+      "Add cumin seeds.",
+      "Add the cooked rice and salt.",
+      "Mix gently.",
+      "Cook for two minutes and serve."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Vegetable Pulao",
+    "category": "Rice & Pulao",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "carrot", "peas", "beans", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "garam masala", "cumin"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 360,
+      "protein": 8,
+      "carbohydrates": 52,
+      "fat": 10
+    },
+    "steps": [
+      "Wash and soak the rice.",
+      "Chop all vegetables.",
+      "Saute onion and cumin in oil.",
+      "Add vegetables and spices.",
+      "Add rice and water.",
+      "Cover and cook until the rice is done.",
+      "Mix gently and serve."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Peas Pulao",
+    "category": "Rice & Pulao",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "peas", "onion"],
+    "pantryIngredients": ["oil", "salt", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 330,
+      "protein": 8,
+      "carbohydrates": 50,
+      "fat": 8
+    },
+    "steps": [
+      "Wash and soak the rice.",
+      "Saute onion and cumin.",
+      "Add peas and spices.",
+      "Add rice and water.",
+      "Cover and cook until the rice is done.",
+      "Fluff the rice and serve."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tomato Pulao",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "garam masala", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 340,
+      "protein": 7,
+      "carbohydrates": 50,
+      "fat": 9
+    },
+    "steps": [
+      "Wash and soak the rice.",
+      "Chop tomato and onion.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add rice and water.",
+      "Cover and cook until done.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mint Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "mint", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 315,
+      "protein": 6,
+      "carbohydrates": 48,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Wash and chop mint leaves.",
+      "Saute onion and green chilli.",
+      "Add mint and spices.",
+      "Add cooked rice.",
+      "Mix gently and cook for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Coriander Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "coriander leaves", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 300,
+      "protein": 6,
+      "carbohydrates": 46,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Chop coriander, onion and green chilli.",
+      "Saute onion and green chilli.",
+      "Add coriander and spices.",
+      "Add cooked rice.",
+      "Mix well and cook for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Mango Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "raw mango", "green chilli", "peanuts"],
+    "pantryIngredients": ["oil", "salt", "mustard seeds", "turmeric"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 325,
+      "protein": 7,
+      "carbohydrates": 48,
+      "fat": 10
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Grate the raw mango.",
+      "Heat oil and add mustard seeds.",
+      "Add peanuts and green chilli.",
+      "Add grated mango and turmeric.",
+      "Add cooked rice and salt.",
+      "Mix well and serve."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Peanut Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "peanuts", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 350,
+      "protein": 9,
+      "carbohydrates": 45,
+      "fat": 13
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Roast the peanuts.",
+      "Heat oil and add mustard seeds and cumin.",
+      "Add green chilli.",
+      "Add roasted peanuts.",
+      "Add cooked rice and salt.",
+      "Mix well and serve."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sesame Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "sesame seeds", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "mustard seeds"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 335,
+      "protein": 8,
+      "carbohydrates": 46,
+      "fat": 11
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Dry roast sesame seeds.",
+      "Crush the roasted sesame seeds.",
+      "Heat oil and add mustard seeds.",
+      "Add green chilli and sesame powder.",
+      "Add cooked rice and salt.",
+      "Mix well and serve."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Egg Pulao",
+    "category": "Rice & Pulao",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "egg", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "garam masala", "cumin"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 2,
+    "nutrition": {
+      "calories": 410,
+      "protein": 16,
+      "carbohydrates": 49,
+      "fat": 15
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Boil the eggs and peel them.",
+      "Saute onion and green chilli.",
+      "Add spices and cooked rice.",
+      "Add boiled eggs.",
+      "Mix gently and cook for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Vegetable Masala Rice",
+    "category": "Rice & Pulao",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "carrot", "beans", "peas", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "garam masala", "cumin"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 370,
+      "protein": 8,
+      "carbohydrates": 53,
+      "fat": 10
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Chop all the vegetables.",
+      "Saute onion and cumin.",
+      "Add tomato and vegetables.",
+      "Add spices and cook until soft.",
+      "Add cooked rice and mix gently.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Corn Pulao",
+    "category": "Rice & Pulao",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "corn", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 345,
+      "protein": 8,
+      "carbohydrates": 51,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Saute onion and green chilli.",
+      "Add corn and spices.",
+      "Cook for a few minutes.",
+      "Add cooked rice.",
+      "Mix gently.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Carrot Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "carrot", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "cumin", "turmeric"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 310,
+      "protein": 6,
+      "carbohydrates": 49,
+      "fat": 7
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Grate or finely chop the carrot.",
+      "Saute onion and green chilli.",
+      "Add carrot and spices.",
+      "Cook until the carrot is soft.",
+      "Add cooked rice and mix well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Capsicum Rice",
+    "category": "Rice & Pulao",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "capsicum", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 315,
+      "protein": 6,
+      "carbohydrates": 47,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Slice the capsicum and onion.",
+      "Saute onion and green chilli.",
+      "Add capsicum and spices.",
+      "Cook until slightly soft.",
+      "Add cooked rice and mix well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Vegetable Biryani",
+    "category": "Rice & Pulao",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["basmati rice", "carrot", "peas", "beans", "potato", "onion", "tomato", "mint"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "garam masala", "cumin"],
+    "substitutes": {},
+    "cookingTime": 50,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 420,
+      "protein": 9,
+      "carbohydrates": 58,
+      "fat": 12
+    },
+    "steps": [
+      "Wash and partially cook the basmati rice.",
+      "Chop the vegetables.",
+      "Saute onion and vegetables with spices.",
+      "Add tomato and cook the masala.",
+      "Layer the rice over the vegetable mixture.",
+      "Add mint and coriander.",
+      "Cover and cook on low heat until completely done."
+    ]
+  },
+    {
+    "id": 21,
+    "name": "Dal Tadka",
+    "category": "Dal, Sambar & Rasam",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 280,
+      "protein": 13,
+      "carbohydrates": 36,
+      "fat": 8
+    },
+    "steps": [
+      "Wash and pressure cook the dal.",
+      "Mash the cooked dal.",
+      "Saute onion, tomato and green chilli.",
+      "Add turmeric and spices.",
+      "Add the cooked dal and mix well.",
+      "Prepare a garlic and cumin tempering.",
+      "Add the tempering and serve."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Dal Fry",
+    "category": "Dal, Sambar & Rasam",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 290,
+      "protein": 13,
+      "carbohydrates": 38,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Mash the dal.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add the cooked dal.",
+      "Simmer for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Tomato Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 285,
+      "protein": 13,
+      "carbohydrates": 37,
+      "fat": 7
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Chop tomatoes and onion.",
+      "Saute onion and green chilli.",
+      "Add tomatoes and spices.",
+      "Add cooked dal.",
+      "Mix well and simmer.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Palak Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "spinach", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 275,
+      "protein": 13,
+      "carbohydrates": 35,
+      "fat": 7
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Wash and chop spinach.",
+      "Saute onion and garlic.",
+      "Add tomato and spinach.",
+      "Add cooked dal and spices.",
+      "Simmer until the spinach is cooked.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mixed Vegetable Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "carrot", "beans", "peas", "tomato", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 310,
+      "protein": 14,
+      "carbohydrates": 40,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Chop the vegetables.",
+      "Saute onion and garlic.",
+      "Add vegetables and spices.",
+      "Add cooked dal.",
+      "Simmer until the vegetables are tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Moong Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["moong dal", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 260,
+      "protein": 14,
+      "carbohydrates": 35,
+      "fat": 6
+    },
+    "steps": [
+      "Wash and cook the moong dal.",
+      "Chop onion and tomato.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add cooked dal.",
+      "Simmer for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Masoor Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["masoor dal", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 270,
+      "protein": 15,
+      "carbohydrates": 36,
+      "fat": 6
+    },
+    "steps": [
+      "Wash and cook the masoor dal.",
+      "Saute onion and garlic.",
+      "Add tomato and green chilli.",
+      "Add turmeric and spices.",
+      "Add cooked dal.",
+      "Simmer until well combined.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Chana Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["chana dal", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 300,
+      "protein": 14,
+      "carbohydrates": 39,
+      "fat": 8
+    },
+    "steps": [
+      "Soak the chana dal.",
+      "Pressure cook the dal until soft.",
+      "Saute onion, garlic and green chilli.",
+      "Add tomato and spices.",
+      "Add cooked dal.",
+      "Simmer until thick.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Tomato Pappu",
+    "category": "Dal, Sambar & Rasam",
+    "region": "Andhra",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "tomato", "green chilli", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 285,
+      "protein": 13,
+      "carbohydrates": 37,
+      "fat": 7
+    },
+    "steps": [
+      "Cook the dal with tomatoes and turmeric.",
+      "Mash the cooked dal.",
+      "Saute onion and green chilli.",
+      "Add garlic and cumin.",
+      "Mix the tempering with the dal.",
+      "Simmer for a few minutes.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Gongura Pappu",
+    "category": "Dal, Sambar & Rasam",
+    "region": "Andhra",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "gongura leaves", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 290,
+      "protein": 13,
+      "carbohydrates": 38,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Wash and cook the gongura leaves.",
+      "Mash the dal and gongura together.",
+      "Prepare a tempering with oil, cumin and garlic.",
+      "Add onion and green chilli.",
+      "Mix the tempering into the dal.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Vegetable Sambar",
+    "category": "Dal, Sambar & Rasam",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "carrot", "beans", "drumstick", "tomato", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "mustard seeds"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 11,
+      "carbohydrates": 35,
+      "fat": 6
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Chop the vegetables.",
+      "Cook the vegetables with tomato and onion.",
+      "Add sambar spices and turmeric.",
+      "Add cooked dal.",
+      "Simmer until the vegetables are tender.",
+      "Prepare a mustard tempering and add it.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Tomato Sambar",
+    "category": "Dal, Sambar & Rasam",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 240,
+      "protein": 11,
+      "carbohydrates": 34,
+      "fat": 6
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Cook tomatoes, onion and green chilli.",
+      "Add turmeric and sambar spices.",
+      "Add cooked dal.",
+      "Simmer for a few minutes.",
+      "Prepare mustard tempering.",
+      "Add the tempering and serve."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Drumstick Sambar",
+    "category": "Dal, Sambar & Rasam",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "drumstick", "tomato", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 255,
+      "protein": 11,
+      "carbohydrates": 36,
+      "fat": 6
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Cut the drumstick into pieces.",
+      "Cook drumstick with tomato and onion.",
+      "Add turmeric and sambar spices.",
+      "Add cooked dal.",
+      "Simmer until the drumstick is tender.",
+      "Add mustard tempering and serve."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Rasam",
+    "category": "Dal, Sambar & Rasam",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["tomato", "tamarind", "coriander leaves"],
+    "pantryIngredients": ["salt", "turmeric", "cumin", "black pepper", "mustard seeds"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 100,
+      "protein": 3,
+      "carbohydrates": 15,
+      "fat": 3
+    },
+    "steps": [
+      "Cook the tomatoes and extract their pulp.",
+      "Add tamarind water.",
+      "Add turmeric, cumin and pepper.",
+      "Boil the rasam.",
+      "Prepare a mustard tempering.",
+      "Add coriander leaves.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Tomato Rasam",
+    "category": "Dal, Sambar & Rasam",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["tomato", "tamarind", "coriander leaves", "green chilli"],
+    "pantryIngredients": ["salt", "turmeric", "cumin", "black pepper", "mustard seeds"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 105,
+      "protein": 3,
+      "carbohydrates": 16,
+      "fat": 3
+    },
+    "steps": [
+      "Cook the tomatoes and mash them.",
+      "Add tamarind water.",
+      "Add green chilli and spices.",
+      "Boil the rasam.",
+      "Prepare a mustard tempering.",
+      "Add coriander leaves.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Pepper Rasam",
+    "category": "Dal, Sambar & Rasam",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["tomato", "tamarind", "black pepper", "cumin"],
+    "pantryIngredients": ["salt", "turmeric", "mustard seeds", "garlic"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 110,
+      "protein": 3,
+      "carbohydrates": 15,
+      "fat": 4
+    },
+    "steps": [
+      "Cook and mash the tomatoes.",
+      "Add tamarind water.",
+      "Add crushed pepper and cumin.",
+      "Add turmeric and salt.",
+      "Boil the rasam.",
+      "Prepare a mustard and garlic tempering.",
+      "Add the tempering and serve."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Spinach Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["moong dal", "spinach", "tomato", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 270,
+      "protein": 14,
+      "carbohydrates": 35,
+      "fat": 6
+    },
+    "steps": [
+      "Cook the moong dal.",
+      "Wash and chop spinach.",
+      "Saute onion and garlic.",
+      "Add tomato and spinach.",
+      "Add cooked dal and spices.",
+      "Simmer until the spinach is cooked.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Garlic Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "garlic", "tomato", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "red chilli powder"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 285,
+      "protein": 13,
+      "carbohydrates": 37,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Chop onion, tomato and garlic.",
+      "Saute garlic and onion.",
+      "Add tomato and spices.",
+      "Add cooked dal.",
+      "Simmer for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Lemon Rasam",
+    "category": "Dal, Sambar & Rasam",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["lemon", "tomato", "coriander leaves", "green chilli"],
+    "pantryIngredients": ["salt", "turmeric", "cumin", "black pepper", "mustard seeds"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 95,
+      "protein": 2,
+      "carbohydrates": 14,
+      "fat": 3
+    },
+    "steps": [
+      "Cook the tomatoes with water.",
+      "Add green chilli and spices.",
+      "Boil the rasam.",
+      "Turn off the heat.",
+      "Add fresh lemon juice.",
+      "Add coriander leaves.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Vegetable Dal",
+    "category": "Dal, Sambar & Rasam",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["toor dal", "carrot", "beans", "peas", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 305,
+      "protein": 14,
+      "carbohydrates": 40,
+      "fat": 7
+    },
+    "steps": [
+      "Cook the dal until soft.",
+      "Chop the vegetables.",
+      "Saute garlic and tomato.",
+      "Add vegetables and spices.",
+      "Add cooked dal.",
+      "Simmer until the vegetables are tender.",
+      "Serve hot."
+    ]
+  },
+    {
+    "id": 41,
+    "name": "Aloo Gobi",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["potato", "cauliflower", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 280,
+      "protein": 7,
+      "carbohydrates": 32,
+      "fat": 14
+    },
+    "steps": [
+      "Cut potato and cauliflower into pieces.",
+      "Saute cumin and onion.",
+      "Add tomato and spices.",
+      "Add potato and cauliflower.",
+      "Cover and cook until tender.",
+      "Stir occasionally.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Aloo Palak",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["potato", "spinach", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 250,
+      "protein": 7,
+      "carbohydrates": 28,
+      "fat": 12
+    },
+    "steps": [
+      "Boil and cut the potatoes.",
+      "Wash and chop the spinach.",
+      "Saute onion and tomato.",
+      "Add spices and spinach.",
+      "Add potatoes.",
+      "Cook until the spinach is soft.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Matar Paneer",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["paneer", "peas", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 360,
+      "protein": 19,
+      "carbohydrates": 18,
+      "fat": 25
+    },
+    "steps": [
+      "Cut the paneer into cubes.",
+      "Saute onion and tomato.",
+      "Add spices and cook the masala.",
+      "Add peas.",
+      "Add paneer cubes.",
+      "Add a little water and simmer.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Bhindi Masala",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["okra", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 220,
+      "protein": 5,
+      "carbohydrates": 18,
+      "fat": 14
+    },
+    "steps": [
+      "Wash and dry the okra.",
+      "Cut the okra into pieces.",
+      "Saute onion.",
+      "Add tomato and spices.",
+      "Add okra.",
+      "Cook until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Baingan Masala",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["brinjal", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 230,
+      "protein": 5,
+      "carbohydrates": 20,
+      "fat": 14
+    },
+    "steps": [
+      "Cut the brinjal into pieces.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add brinjal pieces.",
+      "Cover and cook until soft.",
+      "Mix well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Jeera Aloo",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["potato", "cumin", "coriander leaves"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 210,
+      "protein": 4,
+      "carbohydrates": 31,
+      "fat": 8
+    },
+    "steps": [
+      "Boil and cut the potatoes.",
+      "Heat oil and add cumin.",
+      "Add potatoes.",
+      "Add turmeric, chilli powder and salt.",
+      "Mix well and cook.",
+      "Add coriander leaves.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Cabbage Peas Curry",
+    "category": "Vegetable Curries",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["cabbage", "peas", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 190,
+      "protein": 6,
+      "carbohydrates": 24,
+      "fat": 8
+    },
+    "steps": [
+      "Shred the cabbage.",
+      "Saute onion and cumin.",
+      "Add tomato and spices.",
+      "Add cabbage and peas.",
+      "Cover and cook until tender.",
+      "Mix well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Gobi Masala",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["cauliflower", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 220,
+      "protein": 7,
+      "carbohydrates": 22,
+      "fat": 12
+    },
+    "steps": [
+      "Cut the cauliflower into florets.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add cauliflower.",
+      "Cover and cook until tender.",
+      "Stir well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Aloo Matar",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["potato", "peas", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 240,
+      "protein": 7,
+      "carbohydrates": 34,
+      "fat": 9
+    },
+    "steps": [
+      "Boil and cut the potatoes.",
+      "Saute onion and cumin.",
+      "Add tomato and spices.",
+      "Add potatoes and peas.",
+      "Add a little water.",
+      "Cook until the peas are tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Mushroom Masala",
+    "category": "Vegetable Curries",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["mushroom", "onion", "tomato", "capsicum"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 210,
+      "protein": 8,
+      "carbohydrates": 16,
+      "fat": 12
+    },
+    "steps": [
+      "Clean and slice the mushrooms.",
+      "Saute onion and capsicum.",
+      "Add tomato and spices.",
+      "Add mushrooms.",
+      "Cook until tender.",
+      "Mix well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Kadai Vegetable",
+    "category": "Vegetable Curries",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["capsicum", "carrot", "cauliflower", "beans", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala", "coriander powder"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 260,
+      "protein": 7,
+      "carbohydrates": 25,
+      "fat": 15
+    },
+    "steps": [
+      "Chop all the vegetables.",
+      "Saute onion.",
+      "Add tomato and spices.",
+      "Add all vegetables.",
+      "Add a little water.",
+      "Cook until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Capsicum Potato Curry",
+    "category": "Vegetable Curries",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["capsicum", "potato", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 235,
+      "protein": 5,
+      "carbohydrates": 30,
+      "fat": 10
+    },
+    "steps": [
+      "Boil and cut the potatoes.",
+      "Slice the capsicum.",
+      "Saute onion and tomato.",
+      "Add spices.",
+      "Add potatoes and capsicum.",
+      "Cook until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Beans Poriyal",
+    "category": "Vegetable Curries",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["beans", "coconut", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5,
+      "carbohydrates": 16,
+      "fat": 10
+    },
+    "steps": [
+      "Chop the beans.",
+      "Heat oil and add mustard seeds.",
+      "Add onion.",
+      "Add beans, turmeric and salt.",
+      "Cover and cook until tender.",
+      "Add grated coconut.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Carrot Beans Poriyal",
+    "category": "Vegetable Curries",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["carrot", "beans", "coconut", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 190,
+      "protein": 5,
+      "carbohydrates": 18,
+      "fat": 10
+    },
+    "steps": [
+      "Chop carrot and beans.",
+      "Heat oil and add mustard seeds.",
+      "Saute onion.",
+      "Add carrot and beans.",
+      "Add turmeric and salt.",
+      "Cook until tender.",
+      "Add grated coconut and serve."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Potato Fry",
+    "category": "Vegetable Curries",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["potato", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 220,
+      "protein": 4,
+      "carbohydrates": 30,
+      "fat": 9
+    },
+    "steps": [
+      "Boil and cut the potatoes.",
+      "Saute onion and cumin.",
+      "Add potatoes.",
+      "Add turmeric, chilli powder and salt.",
+      "Fry until lightly crisp.",
+      "Stir well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Brinjal Fry",
+    "category": "Vegetable Curries",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["brinjal", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 200,
+      "protein": 4,
+      "carbohydrates": 18,
+      "fat": 13
+    },
+    "steps": [
+      "Cut the brinjal into thin pieces.",
+      "Saute onion and green chilli.",
+      "Add brinjal.",
+      "Add turmeric, chilli powder and salt.",
+      "Fry until soft.",
+      "Cook until lightly roasted.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Bottle Gourd Curry",
+    "category": "Vegetable Curries",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["bottle gourd", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 170,
+      "protein": 4,
+      "carbohydrates": 18,
+      "fat": 8
+    },
+    "steps": [
+      "Peel and chop the bottle gourd.",
+      "Saute cumin and onion.",
+      "Add tomato and spices.",
+      "Add bottle gourd.",
+      "Cover and cook.",
+      "Cook until soft.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Pumpkin Curry",
+    "category": "Vegetable Curries",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["pumpkin", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 175,
+      "protein": 4,
+      "carbohydrates": 22,
+      "fat": 7
+    },
+    "steps": [
+      "Peel and cut the pumpkin.",
+      "Saute onion and cumin.",
+      "Add tomato and spices.",
+      "Add pumpkin pieces.",
+      "Cover and cook.",
+      "Cook until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Mixed Vegetable Curry",
+    "category": "Vegetable Curries",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["carrot", "beans", "peas", "potato", "cauliflower", "tomato", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 250,
+      "protein": 7,
+      "carbohydrates": 30,
+      "fat": 11
+    },
+    "steps": [
+      "Chop all vegetables.",
+      "Saute onion and cumin.",
+      "Add tomato and spices.",
+      "Add all vegetables.",
+      "Add a little water.",
+      "Cover and cook until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Vegetable Korma",
+    "category": "Vegetable Curries",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["carrot", "beans", "peas", "potato", "coconut", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 300,
+      "protein": 7,
+      "carbohydrates": 28,
+      "fat": 18
+    },
+    "steps": [
+      "Chop all vegetables.",
+      "Saute onion and cumin.",
+      "Add vegetables and spices.",
+      "Add coconut paste and water.",
+      "Cover and cook until tender.",
+      "Simmer until the gravy thickens.",
+      "Serve hot."
+    ]
+  },
+    {
+    "id": 61,
+    "name": "Egg Curry",
+    "category": "Egg Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 300,
+      "protein": 18,
+      "carbohydrates": 12,
+      "fat": 20
+    },
+    "steps": [
+      "Boil the eggs and peel them.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Cook until the masala becomes soft.",
+      "Add boiled eggs.",
+      "Simmer for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Egg Masala",
+    "category": "Egg Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "onion", "tomato", "capsicum"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 290,
+      "protein": 17,
+      "carbohydrates": 11,
+      "fat": 19
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Chop onion and capsicum.",
+      "Saute onion until soft.",
+      "Add tomato, capsicum and spices.",
+      "Add boiled eggs.",
+      "Cook until the masala coats the eggs.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Egg Bhurji",
+    "category": "Egg Recipes",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "onion", "tomato", "green chilli", "coriander leaves"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 240,
+      "protein": 16,
+      "carbohydrates": 8,
+      "fat": 16
+    },
+    "steps": [
+      "Beat the eggs in a bowl.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Pour in the beaten eggs.",
+      "Stir continuously until cooked.",
+      "Add coriander leaves.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Egg Pepper Fry",
+    "category": "Egg Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "onion", "black pepper", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 250,
+      "protein": 17,
+      "carbohydrates": 8,
+      "fat": 17
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Cut the eggs into halves.",
+      "Saute onion and green chilli.",
+      "Add pepper, turmeric and salt.",
+      "Add the boiled eggs.",
+      "Fry gently until coated.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Egg Tomato Curry",
+    "category": "Egg Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 285,
+      "protein": 18,
+      "carbohydrates": 10,
+      "fat": 19
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Saute onion and green chilli.",
+      "Add chopped tomatoes.",
+      "Add spices and cook the tomato.",
+      "Add boiled eggs.",
+      "Simmer for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Egg Capsicum Masala",
+    "category": "Egg Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "capsicum", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 275,
+      "protein": 18,
+      "carbohydrates": 10,
+      "fat": 18
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Slice the capsicum and onion.",
+      "Saute onion.",
+      "Add capsicum, tomato and spices.",
+      "Add boiled eggs.",
+      "Cook for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Egg Potato Curry",
+    "category": "Egg Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "potato", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 330,
+      "protein": 18,
+      "carbohydrates": 28,
+      "fat": 18
+    },
+    "steps": [
+      "Boil the eggs and potatoes.",
+      "Peel and cut them.",
+      "Saute onion and tomato.",
+      "Add spices.",
+      "Add potato and water.",
+      "Add boiled eggs.",
+      "Simmer and serve."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Egg Spinach Curry",
+    "category": "Egg Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "spinach", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 275,
+      "protein": 19,
+      "carbohydrates": 10,
+      "fat": 18
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Wash and chop the spinach.",
+      "Saute onion and tomato.",
+      "Add spices and spinach.",
+      "Cook until the spinach softens.",
+      "Add boiled eggs.",
+      "Simmer and serve."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Egg Coconut Curry",
+    "category": "Egg Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "coconut", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 340,
+      "protein": 18,
+      "carbohydrates": 12,
+      "fat": 24
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add coconut milk or coconut paste.",
+      "Add boiled eggs.",
+      "Simmer gently.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Egg Andhra Curry",
+    "category": "Egg Recipes",
+    "region": "Andhra",
+    "meal": "Lunch",
+    "ingredients": ["egg", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 310,
+      "protein": 18,
+      "carbohydrates": 12,
+      "fat": 20
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Cook the masala until soft.",
+      "Add boiled eggs.",
+      "Simmer on low heat.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Egg Peas Masala",
+    "category": "Egg Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "peas", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 320,
+      "protein": 20,
+      "carbohydrates": 18,
+      "fat": 18
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Saute onion and cumin.",
+      "Add tomato and spices.",
+      "Add peas and cook.",
+      "Add boiled eggs.",
+      "Simmer until the peas are tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Egg Onion Curry",
+    "category": "Egg Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 290,
+      "protein": 18,
+      "carbohydrates": 10,
+      "fat": 19
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Slice the onions.",
+      "Saute onions until golden.",
+      "Add tomato and spices.",
+      "Add boiled eggs.",
+      "Cook for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Egg Methi Curry",
+    "category": "Egg Recipes",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "fenugreek leaves", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 300,
+      "protein": 19,
+      "carbohydrates": 12,
+      "fat": 19
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Wash and chop the fenugreek leaves.",
+      "Saute onion and tomato.",
+      "Add spices and fenugreek leaves.",
+      "Cook until the leaves soften.",
+      "Add boiled eggs.",
+      "Simmer and serve."
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Egg Coconut Masala",
+    "category": "Egg Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "coconut", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 335,
+      "protein": 18,
+      "carbohydrates": 11,
+      "fat": 24
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Saute onion and green chilli.",
+      "Add coconut and spices.",
+      "Cook the masala.",
+      "Add boiled eggs.",
+      "Simmer for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Egg Tomato Fry",
+    "category": "Egg Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["egg", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "nutrition": {
+      "calories": 260,
+      "protein": 17,
+      "carbohydrates": 9,
+      "fat": 17
+    },
+    "steps": [
+      "Boil and peel the eggs.",
+      "Cut the eggs into pieces.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add the egg pieces.",
+      "Fry gently until coated.",
+      "Serve hot."
+    ]
+  },
+    {
+    "id": 76,
+    "name": "Chicken Curry",
+    "category": "Chicken Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 360,
+      "protein": 32,
+      "carbohydrates": 12,
+      "fat": 20
+    },
+    "steps": [
+      "Clean the chicken pieces.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add chicken pieces.",
+      "Mix well and cook.",
+      "Add water and simmer until the chicken is cooked.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Chicken Masala",
+    "category": "Chicken Recipes",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "onion", "tomato", "capsicum"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 380,
+      "protein": 33,
+      "carbohydrates": 14,
+      "fat": 22
+    },
+    "steps": [
+      "Clean the chicken.",
+      "Saute onion and capsicum.",
+      "Add tomato and spices.",
+      "Add chicken pieces.",
+      "Cook until the masala coats the chicken.",
+      "Add water and simmer until cooked.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Chicken Pepper Fry",
+    "category": "Chicken Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "onion", "black pepper", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 340,
+      "protein": 34,
+      "carbohydrates": 8,
+      "fat": 19
+    },
+    "steps": [
+      "Clean the chicken pieces.",
+      "Saute onion, garlic and green chilli.",
+      "Add turmeric, pepper and salt.",
+      "Add chicken pieces.",
+      "Cook until the chicken is tender.",
+      "Fry until lightly roasted.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Chicken Tomato Curry",
+    "category": "Chicken Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "tomato", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 31,
+      "carbohydrates": 13,
+      "fat": 19
+    },
+    "steps": [
+      "Clean the chicken.",
+      "Saute onion and green chilli.",
+      "Add chopped tomatoes.",
+      "Add spices and cook the masala.",
+      "Add chicken pieces.",
+      "Cover and cook until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Chicken Biryani",
+    "category": "Chicken Recipes",
+    "region": "Hyderabadi",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "basmati rice", "onion", "tomato", "mint", "coriander leaves", "yogurt"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "garam masala", "cumin"],
+    "substitutes": {},
+    "cookingTime": 70,
+    "difficulty": "Hard",
+    "servings": 4,
+    "nutrition": {
+      "calories": 520,
+      "protein": 32,
+      "carbohydrates": 60,
+      "fat": 18
+    },
+    "steps": [
+      "Wash and soak the basmati rice.",
+      "Marinate the chicken with yogurt and spices.",
+      "Saute onion and cook the chicken masala.",
+      "Cook the rice separately until partly done.",
+      "Layer the rice over the chicken.",
+      "Add mint, coriander and fried onion.",
+      "Cover and cook on low heat until fully done."
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Chicken Pulao",
+    "category": "Chicken Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "basmati rice", "onion", "peas"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 50,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 470,
+      "protein": 30,
+      "carbohydrates": 55,
+      "fat": 15
+    },
+    "steps": [
+      "Wash and soak the rice.",
+      "Saute onion and cumin.",
+      "Add chicken and spices.",
+      "Add peas and rice.",
+      "Add water.",
+      "Cover and cook until the rice and chicken are done.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Chicken Coconut Curry",
+    "category": "Chicken Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "coconut", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 410,
+      "protein": 32,
+      "carbohydrates": 12,
+      "fat": 27
+    },
+    "steps": [
+      "Clean the chicken.",
+      "Saute onion and green chilli.",
+      "Add tomato and spices.",
+      "Add chicken pieces.",
+      "Add coconut milk or coconut paste.",
+      "Cover and simmer until the chicken is cooked.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Chicken Andhra Curry",
+    "category": "Chicken Recipes",
+    "region": "Andhra",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala", "garlic"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 390,
+      "protein": 33,
+      "carbohydrates": 13,
+      "fat": 23
+    },
+    "steps": [
+      "Clean the chicken pieces.",
+      "Saute onion, garlic and green chilli.",
+      "Add tomato and spices.",
+      "Add chicken pieces.",
+      "Cook the masala well.",
+      "Add water and simmer until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Chicken Kadai",
+    "category": "Chicken Recipes",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "capsicum", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala", "coriander powder"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 400,
+      "protein": 34,
+      "carbohydrates": 15,
+      "fat": 24
+    },
+    "steps": [
+      "Clean the chicken.",
+      "Saute onion and capsicum.",
+      "Add tomato and spices.",
+      "Add chicken pieces.",
+      "Cook until the masala thickens.",
+      "Add a little water and simmer.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Chicken Spinach Curry",
+    "category": "Chicken Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "spinach", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 350,
+      "protein": 34,
+      "carbohydrates": 10,
+      "fat": 20
+    },
+    "steps": [
+      "Clean the chicken pieces.",
+      "Wash and chop the spinach.",
+      "Saute onion and tomato.",
+      "Add spices and spinach.",
+      "Add chicken pieces.",
+      "Cover and cook until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Chicken Potato Curry",
+    "category": "Chicken Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "potato", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 50,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 430,
+      "protein": 32,
+      "carbohydrates": 30,
+      "fat": 22
+    },
+    "steps": [
+      "Clean the chicken and cut the potatoes.",
+      "Saute onion and tomato.",
+      "Add spices.",
+      "Add chicken and potatoes.",
+      "Add water.",
+      "Cover and cook until both are tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Chicken Green Curry",
+    "category": "Chicken Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "coriander leaves", "mint", "green chilli", "onion"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garam masala", "garlic"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 370,
+      "protein": 33,
+      "carbohydrates": 9,
+      "fat": 22
+    },
+    "steps": [
+      "Blend coriander, mint and green chilli.",
+      "Saute onion and garlic.",
+      "Add the green paste and spices.",
+      "Add chicken pieces.",
+      "Cook for a few minutes.",
+      "Add water and simmer until the chicken is tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Chicken Lemon Curry",
+    "category": "Chicken Recipes",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "lemon", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 330,
+      "protein": 33,
+      "carbohydrates": 8,
+      "fat": 19
+    },
+    "steps": [
+      "Clean the chicken.",
+      "Saute onion, garlic and green chilli.",
+      "Add spices and chicken.",
+      "Cook until the chicken is tender.",
+      "Add a small amount of water.",
+      "Turn off the heat and add lemon juice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Chicken Methi Curry",
+    "category": "Chicken Recipes",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "fenugreek leaves", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 365,
+      "protein": 34,
+      "carbohydrates": 11,
+      "fat": 21
+    },
+    "steps": [
+      "Clean the chicken.",
+      "Wash and chop the fenugreek leaves.",
+      "Saute onion and tomato.",
+      "Add spices and fenugreek leaves.",
+      "Add chicken pieces.",
+      "Cover and cook until tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Chicken Peas Curry",
+    "category": "Chicken Recipes",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["chicken", "peas", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "red chilli powder", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 45,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 385,
+      "protein": 35,
+      "carbohydrates": 18,
+      "fat": 20
+    },
+    "steps": [
+      "Clean the chicken.",
+      "Saute onion and cumin.",
+      "Add tomato and spices.",
+      "Add chicken and peas.",
+      "Add water.",
+      "Cover and cook until tender.",
+      "Serve hot."
+    ]
+  },
+    {
+    "id": 91,
+    "name": "Vegetable Khichdi",
+    "category": "Other Indian Lunch",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "moong dal", "carrot", "peas", "potato", "onion", "tomato"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 330,
+      "protein": 12,
+      "carbohydrates": 52,
+      "fat": 9
+    },
+    "steps": [
+      "Wash the rice and moong dal.",
+      "Chop all the vegetables.",
+      "Saute cumin, garlic and onion.",
+      "Add tomato, vegetables and spices.",
+      "Add rice and dal.",
+      "Add water and cook until soft.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Vegetable Upma",
+    "category": "Other Indian Lunch",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["semolina", "carrot", "peas", "onion", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 270,
+      "protein": 7,
+      "carbohydrates": 42,
+      "fat": 8
+    },
+    "steps": [
+      "Dry roast the semolina.",
+      "Saute mustard seeds, cumin, onion and green chilli.",
+      "Add chopped vegetables.",
+      "Add water and salt.",
+      "Slowly add the roasted semolina.",
+      "Stir until thick and cooked.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Vegetable Poha",
+    "category": "Other Indian Lunch",
+    "region": "Maharashtrian",
+    "meal": "Lunch",
+    "ingredients": ["poha", "potato", "onion", "peas", "carrot", "green chilli"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "mustard seeds", "cumin"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "carbohydrates": 40,
+      "fat": 7
+    },
+    "steps": [
+      "Wash the poha and drain it.",
+      "Saute mustard seeds, cumin, onion and green chilli.",
+      "Add potato, carrot and peas.",
+      "Add turmeric and salt.",
+      "Add the soaked poha.",
+      "Mix well and cook for a few minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Vegetable Pongal",
+    "category": "Other Indian Lunch",
+    "region": "Tamil Nadu",
+    "meal": "Lunch",
+    "ingredients": ["rice", "moong dal", "carrot", "beans", "peas", "ginger"],
+    "pantryIngredients": ["ghee", "salt", "turmeric", "cumin", "black pepper"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 340,
+      "protein": 11,
+      "carbohydrates": 50,
+      "fat": 10
+    },
+    "steps": [
+      "Wash the rice and moong dal.",
+      "Chop the vegetables.",
+      "Cook rice and dal together until soft.",
+      "Saute cumin, black pepper and ginger in ghee.",
+      "Add the vegetables and cook.",
+      "Mix everything together.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Bisi Bele Bath",
+    "category": "Other Indian Lunch",
+    "region": "Karnataka",
+    "meal": "Lunch",
+    "ingredients": ["rice", "toor dal", "carrot", "beans", "peas", "potato", "tamarind"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "mustard seeds"],
+    "substitutes": {},
+    "cookingTime": 50,
+    "difficulty": "Medium",
+    "servings": 4,
+    "nutrition": {
+      "calories": 390,
+      "protein": 13,
+      "carbohydrates": 62,
+      "fat": 10
+    },
+    "steps": [
+      "Cook the rice and toor dal until soft.",
+      "Chop and cook the vegetables.",
+      "Add tamarind and spices.",
+      "Mix the cooked dal and vegetables.",
+      "Add cooked rice.",
+      "Simmer until everything combines well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Palak Rice",
+    "category": "Other Indian Lunch",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "spinach", "onion", "green chilli", "peas"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "garam masala"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 300,
+      "protein": 8,
+      "carbohydrates": 48,
+      "fat": 8
+    },
+    "steps": [
+      "Cook the rice and keep it aside.",
+      "Wash and chop the spinach.",
+      "Saute cumin, onion and green chilli.",
+      "Add spinach, peas and spices.",
+      "Cook until the spinach softens.",
+      "Add cooked rice and mix well.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Moong Dal Chilla",
+    "category": "Other Indian Lunch",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["moong dal", "onion", "tomato", "green chilli", "coriander leaves"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin"],
+    "substitutes": {},
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 260,
+      "protein": 14,
+      "carbohydrates": 30,
+      "fat": 8
+    },
+    "steps": [
+      "Soak the moong dal.",
+      "Blend it into a smooth batter.",
+      "Add onion, tomato, green chilli and coriander.",
+      "Add salt and spices.",
+      "Heat a pan and spread the batter.",
+      "Cook both sides until lightly crisp.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Besan Chilla",
+    "category": "Other Indian Lunch",
+    "region": "North Indian",
+    "meal": "Lunch",
+    "ingredients": ["gram flour", "onion", "tomato", "green chilli", "coriander leaves"],
+    "pantryIngredients": ["oil", "salt", "turmeric", "cumin", "red chilli powder"],
+    "substitutes": {},
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 240,
+      "protein": 10,
+      "carbohydrates": 28,
+      "fat": 9
+    },
+    "steps": [
+      "Add gram flour to a bowl.",
+      "Add water to make a smooth batter.",
+      "Mix in onion, tomato, green chilli and coriander.",
+      "Add salt and spices.",
+      "Spread the batter on a hot pan.",
+      "Cook both sides until golden.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Vegetable Dal Dosa",
+    "category": "Other Indian Lunch",
+    "region": "South Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "moong dal", "onion", "carrot", "green chilli", "coriander leaves"],
+    "pantryIngredients": ["oil", "salt", "cumin", "turmeric"],
+    "substitutes": {},
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "nutrition": {
+      "calories": 290,
+      "protein": 10,
+      "carbohydrates": 44,
+      "fat": 8
+    },
+    "steps": [
+      "Soak rice and moong dal.",
+      "Blend them into a smooth batter.",
+      "Add chopped vegetables and coriander.",
+      "Add salt and spices.",
+      "Heat a pan and spread the batter.",
+      "Cook both sides until done.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Dal Khichdi",
+    "category": "Other Indian Lunch",
+    "region": "Indian",
+    "meal": "Lunch",
+    "ingredients": ["rice", "toor dal", "onion", "tomato", "green chilli"],
+    "pantryIngredients": ["ghee", "salt", "turmeric", "cumin", "garlic"],
+    "substitutes": {},
+    "cookingTime": 40,
+    "difficulty": "Easy",
+    "servings": 3,
+    "nutrition": {
+      "calories": 350,
+      "protein": 13,
+      "carbohydrates": 54,
+      "fat": 9
+    },
+    "steps": [
+      "Wash the rice and dal.",
+      "Saute cumin, garlic and onion in ghee.",
+      "Add tomato, green chilli and turmeric.",
+      "Add rice and dal.",
+      "Add water and cook until soft.",
+      "Mix well and adjust salt.",
+      "Serve hot."
+    ]
+  }
+]
+
+
+
+
